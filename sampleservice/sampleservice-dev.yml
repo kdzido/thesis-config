@@ -1,0 +1,3 @@
+# dev profile, used for running service in dev env
+
+sample.property: "This is a Git-backed test property for the sampleservice (dev)"
