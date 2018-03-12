@@ -1,4 +1,4 @@
 # dev profile, used for running service in dev env
 
-sample.property: "This is a Git-backed test property for the sampleservice (dev)"
+sample.property: "This is a Git-backed test property for the sampleservice (dev profile)"
 tracer.property: "Hello, I'm dev property"
