@@ -1,3 +1,4 @@
 # default profile, used for running service locally
 
 sample.property: "This is a Git-backed test property for the sampleservice (default)"
+sample.password: "cipher{76f7c8ceb2c358f69b21fc84373bf66282578615219f4df16392d0715c661a2e}"
